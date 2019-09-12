@@ -10,3 +10,4 @@ Line #20: Import “math/rand”
 #244: rand.Seed(time.Now().UnixNano())
 #289: rand.Read(payload)
 ```
+Grab modifed binary from RELEASES
